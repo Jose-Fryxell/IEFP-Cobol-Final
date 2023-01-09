@@ -1,0 +1,71 @@
+C.Cl: 00002 | NIF: 123123123 | Nome: Carlos Miguel Ramos Alves      | Data Adms: 2021-05-30 | Email: carlosalves@gmail.com
+C.Cl: 00003 | NIF: 194123142 | Nome: Maria Rita Silva               | Data Adms: 2021-02-28 | Email: ritasilva@gmail.com
+C.Cl: 00004 | NIF: 194123102 | Nome: Joao Cardoso Ventura           | Data Adms: 2005-06-30 | Email: joaoventura@gmail.com
+C.Cl: 00005 | NIF: 193141253 | Nome: Gaspar Fantastico Odete        | Data Adms: 1995-12-30 | Email: gasparfantastico@hotmail.com
+C.Cl: 00006 | NIF: 487141231 | Nome: Eduarda Antonella Fernanda     | Data Adms: 1952-01-23 | Email: eduantonella@gmail.com
+C.Cl: 00007 | NIF: 195123125 | Nome: Camila Fatima Oliveira         | Data Adms: 2009-05-15 | Email: camilaoli@sapo.pt
+C.Cl: 00008 | NIF: 512312351 | Nome: Ian Thiago Cardoso             | Data Adms: 2015-05-30 | Email: thiagocardoso@outlook.com
+C.Cl: 00009 | NIF: 125126263 | Nome: Lara Jaqueline Almeida         | Data Adms: 2021-01-04 | Email: laraalmeida@yahoo.com
+C.Cl: 00010 | NIF: 141944495 | Nome: Evelyn Malu da Luz             | Data Adms: 2019-11-29 | Email: evelyndaluz@outlook.com
+C.Cl: 00012 | NIF: 149152315 | Nome: Rodrigo Pedro Costa            | Data Adms: 2017-06-30 | Email: rodrigocosta@gmail.com
+C.Cl: 00013 | NIF: 125126776 | Nome: Raimundo Felipe Freitas        | Data Adms: 2009-09-14 | Email: raimundofreitas@gmail.com
+C.Cl: 00015 | NIF: 158915231 | Nome: Manuel Benicio Morais          | Data Adms: 2014-09-04 | Email: manuelmorais@gmail.com
+C.Cl: 00016 | NIF: 135125515 | Nome: Jose Mario Jesus               | Data Adms: 2020-11-21 | Email: josejesus@hotmail.com
+C.Cl: 00018 | NIF: 114144295 | Nome: Nair Larissa dos Santos        | Data Adms: 2019-11-28 | Email: nairsantos@gmail.com
+C.Cl: 00028 | NIF: 144516679 | Nome: Sebastiao Marcos Dias          | Data Adms: 2016-08-23 | Email: sebastiaodias@hotmail.com
+C.Cl: 00029 | NIF: 141445697 | Nome: Gabriela Adriana Moreira       | Data Adms: 1989-10-11 | Email: gabrielamoreira@gmail.com
+C.Cl: 00030 | NIF: 125125566 | Nome: Joao Severino Nascimento       | Data Adms: 2019-03-19 | Email: joaonascimento@sapo.pt
+C.Cl: 00055 | NIF: 194055124 | Nome: Giorno Giovanna                | Data Adms: 2019-10-06 | Email: giornogiovanna@sapo.pt
+C.Cl: 00065 | NIF: 158586991 | Nome: Filipe Igor Manuel Almeida     | Data Adms: 2001-04-05 | Email: filipealmeida@gmail.com
+C.Cl: 00083 | NIF: 145516623 | Nome: Brena dos Milagres Pinto       | Data Adms: 2013-02-28 | Email: brenapinto@gmail.com
+C.Cl: 00090 | NIF: 141959596 | Nome: Luiza Andrea Lima              | Data Adms: 2007-11-09 | Email: luizalima@gmail.com
+C.Cl: 00091 | NIF: 141596708 | Nome: Benjamin Lucas Aparicio        | Data Adms: 2021-05-31 | Email: benjamin@outlook.com
+C.Cl: 00098 | NIF: 195105662 | Nome: Fernanda Maria Martins         | Data Adms: 2018-09-19 | Email: fernandamartins@outlook.com
+C.Cl: 00102 | NIF: 195856012 | Nome: Cecilia Betina Almeida         | Data Adms: 2021-03-02 | Email: ceciliabetina@hotmail.com
+C.Cl: 00104 | NIF: 149512596 | Nome: Elza Heloise da Paz            | Data Adms: 2020-03-04 | Email: elzadapaz@outlook.com
+C.Cl: 00106 | NIF: 149156023 | Nome: Osvaldo Henrique Moreira       | Data Adms: 2014-07-07 | Email: osvaldomoreira@gmail.com
+C.Cl: 01033 | NIF: 142159621 | Nome: Carlao da Costa                | Data Adms: 2021-05-01 | Email: carloscosta@hotmail.com
+C.Cl: 12314 | NIF: 141851231 | Nome: Limao God                      | Data Adms: 2021-06-03 | Email: limaogod@gmail.com
+C.Cl: 12345 | NIF: 149125123 | Nome: Maria Mario                    | Data Adms: 2021-06-03 | Email: mariamario@gmail.com
+C.Lv: 00001 | C.Tm: 00001 | C.At: 00001 | Titulo: Um Fogo Lento
+C.Lv: 00002 | C.Tm: 00001 | C.At: 00001 | Titulo: Escrito na Agua
+C.Lv: 00003 | C.Tm: 00001 | C.At: 00002 | Titulo: A Anomalia
+C.Lv: 00004 | C.Tm: 00002 | C.At: 00003 | Titulo: O Desassossego da Noite
+C.Lv: 00005 | C.Tm: 00002 | C.At: 00004 | Titulo: Nao Fales Nisso
+C.Lv: 00006 | C.Tm: 00003 | C.At: 00005 | Titulo: Tomar
+C.Lv: 00007 | C.Tm: 00003 | C.At: 00006 | Titulo: Moliceiros
+C.Lv: 00008 | C.Tm: 00004 | C.At: 00002 | Titulo: A Thousand Pearls
+C.Lv: 00009 | C.Tm: 00005 | C.At: 00007 | Titulo: Todos os Poemas
+C.Lv: 00010 | C.Tm: 00006 | C.At: 00008 | Titulo: O Cerebro em Acao
+C.Lv: 00011 | C.Tm: 00006 | C.At: 00009 | Titulo: Ornitorrincos Psiquiatricos
+C.Lv: 00012 | C.Tm: 00002 | C.At: 00010 | Titulo: Para Onde Vao Os Guarda-Chuvas
+C.Lv: 00013 | C.Tm: 00007 | C.At: 00011 | Titulo: Balada para Sophie
+C.Lv: 00014 | C.Tm: 00013 | C.At: 00012 | Titulo: Outra Historia, Outras Hist.
+C.Tm: 00001 | Tema: Thriller
+C.Tm: 00002 | Tema: Romance
+C.Tm: 00003 | Tema: Monografias
+C.Tm: 00004 | Tema: Ficcao
+C.Tm: 00005 | Tema: Poesia
+C.Tm: 00006 | Tema: Medicina
+C.Tm: 00007 | Tema: Novela Grafica
+C.Tm: 00008 | Tema: Fantastica
+C.Tm: 00009 | Tema: Biografias e Memorias
+C.Tm: 00010 | Tema: Erotica
+C.Tm: 00011 | Tema: Humor
+C.Tm: 00012 | Tema: Contos
+C.Tm: 00013 | Tema: Cronicas
+C.At: 00001 | Autor: Paula Hawkins
+C.At: 00002 | Autor: Herve Le Tellier
+C.At: 00003 | Autor: Marieke Lucas Rijneveld
+C.At: 00004 | Autor: Estelle Maskame
+C.At: 00005 | Autor: Jose-Augusto Franca
+C.At: 00006 | Autor: Ana Maria Lopes
+C.At: 00007 | Autor: Friedrich Holderlin
+C.At: 00008 | Autor: David Fagleman
+C.At: 00009 | Autor: David Teixeira e Nuno Gil
+C.At: 00010 | Autor: Afonso Cruz
+C.At: 00011 | Autor: Filipe Melo e Juan Cavia
+C.At: 00012 | Autor: Aderito Tavares
+C.Al: 00001 | C.Cl: 00003 | C.Lv: 00001 | Data Alug: 2020-06-14 | Data Dvol: 2020-06-14 | Situacao: D
+C.Al: 00002 | C.Cl: 00003 | C.Lv: 00002 | Data Alug: 2021-06-14 | Data Dvol: 2021-06-14 | Situacao: D
+C.Al: 00003 | C.Cl: 00002 | C.Lv: 00002 | Data Alug: 2021-06-14 | Data Dvol: 0000-00-00 | Situacao: A
